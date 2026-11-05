@@ -1,9 +1,10 @@
 Dynamic Course Dashboard
 
 
-you can change the classes and status, also checks whether a class is avalibile or not
+you can change the classes and status, also checks whether a class is available or not.
 
-
+known limitations: the no event errors appears to have issues when it functions normally on its own.
+difficulty decisions is when you have to restart and when you need a start
 
 
 
