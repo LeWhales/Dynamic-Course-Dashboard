@@ -1,0 +1,19 @@
+head {
+    padding: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+li {
+    padding: 10px;
+    margin: 5px;
+    background-color: lightgray;
+}
+
+li[data-status="open"] {
+    background-color: lightgreen;
+}
+
+li[data-status="closed"] {
+    background-color: lightcoral;
+}
